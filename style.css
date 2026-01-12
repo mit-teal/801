@@ -1,0 +1,16 @@
+body {
+	background-color: lightgrey;
+}
+
+.text {
+	background-color: none;
+	margin: 5;
+}
+
+#description {
+	align-content: center;
+}
+
+ul a {
+	color: #750014;
+}
